@@ -7,4 +7,9 @@ configuration {
   display-window: "﩯 ";
   display-combi: "  ";
 }
-@theme "themes/sidetab-nord.rasi"
+//@theme "themes/sidetab-nord.rasi"
+//@theme "/home/j33d/.config/rofi/themes/catppuccin-mocha.rasi"
+//@theme "/home/j33d/.config/rofi/themes/nord.rasi"
+//@theme "/home/j33d/.config/rofi/themes/catppuccin-mocha.rasi"
+//@theme "/home/j33d/.config/rofi/themes/nord.rasi"
+@theme "/home/j33d/.config/rofi/themes/catppuccin-mocha.rasi"
